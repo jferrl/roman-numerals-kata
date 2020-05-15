@@ -1,3 +1,3 @@
-module go-numerals
+module go-roman
 
 go 1.14

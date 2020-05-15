@@ -1,5 +1,8 @@
 # Golang Roman Numerals Kata
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/jferrl/roman-numerals-kata)](https://goreportcard.com/report/github.com/jferrl/roman-numerals-kata)
+[![Build Status](https://travis-ci.org/jferrl/roman-numerals-kata.svg?branch=master)](https://travis-ci.org/jferrl/roman-numerals-kata)
+
 [Roman Numerals Kata](https://kata-log.rocks/roman-numerals-kata)
 
 ## Your Task

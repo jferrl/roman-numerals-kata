@@ -33,3 +33,11 @@ Write a method String convert(int) that takes a number and converts it to the ac
 ## Hint
 
 This kata lures a lot of people to implement features in the order of the numbers. But do not forget that it’s sometimes easier to start with a general case and add exceptions later.
+
+## Test
+
+You can test this proyect using `go test`. Just run:
+
+```bash
+go test ./...
+```

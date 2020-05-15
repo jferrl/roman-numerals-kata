@@ -23,7 +23,7 @@ func TestConvert(t *testing.T) {
 		{"sixty", args{60}, "LX"},
 		{"sixty one", args{61}, "LXI"},
 		{"one hundred", args{100}, "C"},
-		{"five hundred", args{100}, "D"},
+		{"five hundred", args{500}, "D"},
 		{"one thousand", args{1000}, "M"},
 	}
 	for _, tt := range tests {
